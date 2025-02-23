@@ -58,6 +58,4 @@ python store_conversation_advance.py
   print(chat(session_id="session_12", message="Actually, I don't have a pet."))
   print(chat(session_id="session_12", message="Do I have a pet?"))
   ```
-## 📜 License  
-This project is licensed under the **MIT License**.  
 ---
