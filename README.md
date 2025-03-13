@@ -28,7 +28,7 @@
 
 ### 1️⃣ Clone the repository  
 ```sh
-git clone https://github.com/JonathanJourney99/LTM-AI-Agent.git
+git clone https://github.com/gomesjonathan99/LTM-AI-Agent.git
 ```
 
 ### 2️⃣ Install dependencies  
